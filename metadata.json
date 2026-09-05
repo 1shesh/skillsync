@@ -2,5 +2,7 @@
   "name": "SkillSync - Industry Collaboration & Skill Mapping",
   "description": "SIH 2026 prototype for smart automated skill mapping, internships, placements, and collaboration across Student, Teacher, and Company portals with JWT API Gateway.",
   "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
 }
